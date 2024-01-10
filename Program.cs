@@ -34,12 +34,13 @@ class Program
 
             } while (x > 3 || x <= 0 || 0 >= y || y > 3);
 
+            layout.AddItem(x - 1, y - 1);
+
+
             if (layout.EndGame("X") || layout.EndGame("O"))
             {
                 break;
             }
-
-            layout.AddItem(x-1, y-1);
 
             layout.ShowGame();
             Console.WriteLine();

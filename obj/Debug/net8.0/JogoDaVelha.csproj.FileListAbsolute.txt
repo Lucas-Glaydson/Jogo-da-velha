@@ -12,3 +12,4 @@ C:\Users\games\OneDrive\Documentos\aprendizadoc\JogoDaVelha\obj\Debug\net8.0\ref
 C:\Users\games\OneDrive\Documentos\aprendizadoc\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.pdb
 C:\Users\games\OneDrive\Documentos\aprendizadoc\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.genruntimeconfig.cache
 C:\Users\games\OneDrive\Documentos\aprendizadoc\JogoDaVelha\obj\Debug\net8.0\ref\JogoDaVelha.dll
+C:\Users\games\OneDrive\Documentos\aprendizadoc\JogoDaVelha\obj\Debug\net8.0\JogoDaVelha.sourcelink.json
